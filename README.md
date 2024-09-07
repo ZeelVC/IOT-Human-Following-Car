@@ -30,9 +30,9 @@ Beyond its technical prowess, this project demonstrates the practical applicatio
 ## Circuit Diagram
 Below is the circuit diagram for the IoT Human – Following Car project:
 
-![Circuit Diagram](path/to/your/circuit-diagram.png)
+![Circuit Diagram](Circuit-Diagram.png)
 
 Feel free to explore the repository to learn more about the project and its implementation. Contributions and feedback are welcome!
 
 ## Contact
-For any questions or inquiries, please reach out to [your-zeelvc7@gmail.com](mailto:your-email@example.com).
+For any questions or inquiries, please reach out to [zeelvc7@gmail.com](mailto:your-email@example.com).
